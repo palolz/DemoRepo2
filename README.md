@@ -1,7 +1,9 @@
-#welcome asshole
+# welcome asshole
 
 jshdgfkajszhgdfkjsdh
 
-##sub header
+## sub header
 
 watch shit
+## prime directives
+1. have fun bitches
